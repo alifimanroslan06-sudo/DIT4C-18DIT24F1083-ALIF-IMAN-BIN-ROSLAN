@@ -1,0 +1,56 @@
+[
+  {
+    "username": "admin1",
+    "password": "123",
+    "role": "admin",
+    "fullname": "Admin Sistem"
+  },
+  {
+    "username": "pensyarah1",
+    "password": "123",
+    "role": "pensyarah",
+    "fullname": "Dr Ali"
+  },
+  {
+    "username": "pensyarah2",
+    "password": "123",
+    "role": "pensyarah",
+    "fullname": "Dr Abu"
+  },
+  {
+    "username": "pensyarah3",
+    "password": "123",
+    "role": "pensyarah",
+    "fullname": "Dr Ahmad"
+  },
+  {
+    "username": "pelajar1",
+    "password": "123",
+    "role": "pelajar",
+    "fullname": "Ahmad Ali"
+  },
+  {
+    "username": "pelajar2",
+    "password": "123",
+    "role": "pelajar",
+    "fullname": "Siti Aminah"
+  },
+  {
+    "username": "pelajar3",
+    "password": "123",
+    "role": "pelajar",
+    "fullname": "Aisyah"
+  },
+  {
+    "username": "pelajar4",
+    "password": "123",
+    "role": "pelajar",
+    "fullname": "Daniel"
+  },
+  {
+    "username": "pelajar5",
+    "password": "123",
+    "role": "pelajar",
+    "fullname": "Farhan"
+  }
+]
